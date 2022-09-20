@@ -4,4 +4,6 @@ class Cheese < ApplicationRecord
     "#{name}: $#{price}"
   end
 
+  def show
+
 end
